@@ -1,0 +1,81 @@
+@media(max-width: 1200px) {
+    
+}
+
+@media(max-width: 992px) {
+    .header .navbar{
+        padding: 10px 0;
+    }
+    
+    .services .item{
+        margin-top: 60px;
+    }
+    
+    .site-title{
+        margin-top: 50px;
+        font-size: 25px;
+    }
+    
+    .projects .block{
+        height: 230px;
+    }
+    
+    .projects .site-line{
+        margin-bottom: 50px;
+    }
+}
+
+@media(max-width: 768px) {
+    .main{
+        padding: 160px 0;
+    }
+    
+    .main .title{
+        font-size: 28px;
+    }
+    
+    .main .btn{
+        padding: 10px 40px;
+    }
+    
+    .pricing .box{
+        margin-top: 50px;
+    }
+    
+    .pricing .box .status{
+        padding: 15px 0;
+    }
+    
+    .pricing .box .price{
+        padding: 20px 0;
+    }
+    
+    .pricing .box .list{
+        margin: 20px 0;
+    }
+    
+    .pricing .box .btn{
+        margin-bottom: 25px;
+    }
+    
+    .contact form{
+        margin-top: 50px;
+    }
+    
+    .contact .input{
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+    
+    .footer .title{
+        margin-top: 30px;
+    }
+}
+
+@media(max-width: 576px) {
+    
+}
+
+@media(max-width: 320px) {
+    
+}
